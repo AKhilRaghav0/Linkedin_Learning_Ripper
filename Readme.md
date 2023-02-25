@@ -5,7 +5,7 @@ This script is intended for personal use only. Use of this script to download co
 ---
 
 # Linkedin Course Ripper
-
+![img](https://i.postimg.cc/dVSQy8s8/Error-Concept-Instagram-Story-1920-1080-px.jpg)
 ## Requirements
 - Rclone configuration for OneDrive uploads
 - Brain cells
