@@ -9,7 +9,10 @@ This script is intended for personal use only. Use of this script to download co
 
 
 
-[![Open In Colab RDP](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1YP-HURGj5DoKu8w2_UGUXNepe43Zy1pC?usp=sharing](https://colab.research.google.com/github/AKhilRaghav0/Linkedin_Learning_Ripper/blob/main/Linkedin_rip.ipynb))
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AKhilRaghav0/Linkedin_Learning_Ripper/blob/main/Linkedin_rip.ipynb)
+
+
 
 ## Requirements
 - Rclone configuration for OneDrive uploads
